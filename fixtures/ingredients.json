@@ -1,0 +1,37 @@
+[
+  {
+    "name": "bread",
+    "type": "other",
+    "state": "raw"
+  },
+  {
+    "name": "lettuce",
+    "type": "vegetable",
+    "state": "raw"
+  },
+  {
+    "name": "tomato",
+    "type": "vegetable",
+    "state": "raw"
+  },
+  {
+    "name": "bacon",
+    "type": "meat",
+    "state": "raw"
+  },
+  {
+    "name": "burger",
+    "type": "meat",
+    "state": "raw"
+  },
+  {
+    "name": "onion",
+    "type": "vegetable",
+    "state": "raw"
+  },
+  {
+    "name": "cheese",
+    "type": "dairy",
+    "state": "raw"
+  }
+]
