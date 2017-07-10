@@ -39,9 +39,8 @@ const cookVeggie = R.pipe(
 // );
 
 const cookVegan = R.pipe(
-    R.reject(byType('meat')),
     R.reject(byType('dairy')),
-    cook
+    cookVeggie
 );
 
 
